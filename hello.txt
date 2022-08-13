@@ -23,4 +23,4 @@ hello Giao!hello Git!
 hello Giao!hello Git!
 hello Giao!hello Git!
 hello Giao!hello Git! mastter test
-hello Giao!hello Git!
+hello Giao!hello Git! hot-fix test
